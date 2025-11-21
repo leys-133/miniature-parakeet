@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/*
+ * This file imports the Tailwind directives to generate utility classes.
+ * No custom styles are defined here; instead, colors and other theme
+ * options are configured in `tailwind.config.js`. You can add custom
+ * classes or override defaults here if needed.
+ */
